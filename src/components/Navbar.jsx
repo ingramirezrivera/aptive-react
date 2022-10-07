@@ -21,22 +21,22 @@ const Navbar = () => {
         </div>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
           <li className="nav-item">
-            <Link to="/" className="nav-link">
+            <Link to="/hero" className="nav-link">
               Home
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/" className="nav-link">
+            <Link to="/pricing" className="nav-link">
               Pricing
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/" className="nav-link">
+            <Link to="/faq" className="nav-link">
               FAQ
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/" className="nav-link">
+            <Link to="/contact" className="nav-link">
               Contact
             </Link>
           </li>
