@@ -39,6 +39,13 @@ header .logo img {
 .nav-item {
     padding: 0 1.5rem;
 }
+.nav-item .nav-link:hover {
+    color: var(--white);
+    padding-bottom: 12px;
+    border-bottom:  3px solid var(--secondary);
+    transition: 0.4s;
+}
+
 .nav-link {
     color: var(--white);
 }
