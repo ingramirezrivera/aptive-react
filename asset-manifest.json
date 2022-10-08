@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/aptive-react/static/css/main.28650ebf.css",
-    "main.js": "/aptive-react/static/js/main.1647f124.js",
+    "main.css": "/aptive-react/static/css/main.a5081b28.css",
+    "main.js": "/aptive-react/static/js/main.9660a017.js",
     "static/media/logo.png": "/aptive-react/static/media/logo.802c56fb04a91b5c1789.png",
     "index.html": "/aptive-react/index.html",
-    "main.28650ebf.css.map": "/aptive-react/static/css/main.28650ebf.css.map",
-    "main.1647f124.js.map": "/aptive-react/static/js/main.1647f124.js.map"
+    "main.a5081b28.css.map": "/aptive-react/static/css/main.a5081b28.css.map",
+    "main.9660a017.js.map": "/aptive-react/static/js/main.9660a017.js.map"
   },
   "entrypoints": [
-    "static/css/main.28650ebf.css",
-    "static/js/main.1647f124.js"
+    "static/css/main.a5081b28.css",
+    "static/js/main.9660a017.js"
   ]
 }
